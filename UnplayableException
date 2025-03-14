@@ -1,0 +1,11 @@
+/*
+    Exception for when a song/audio file cannot be played, such as file corruption or unsupported file format
+
+
+*/
+
+public class UnplayableException extends Exception {
+    public UnplayableException(String message) {
+        super(message);
+    }
+}
