@@ -8,4 +8,4 @@ This is a music app
 installation insturctions goes here, explain to user how to install
 # Roadmap
 - [x] Implement this readme
-- [ ] 
+- [ ] Figure out JavaFX
